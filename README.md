@@ -43,7 +43,7 @@ In this project I have created azure webjobs sample,and added two other console 
  
   iii)click download arrow(Get Publish) icon.
  
-  iv) In that file you can be get userName and userPWD.
+  iv) In that file you can get userName and userPWD.
  
 6. Run CreateWebjob Project.
 
