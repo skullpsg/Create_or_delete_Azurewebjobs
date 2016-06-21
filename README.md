@@ -45,8 +45,8 @@ In this project I have created azure webjobs sample,and added two other console 
  
   iv) In that file you can get userName and userPWD.
  
-6. Run CreateWebjob Project.
+6.Run CreateWebjob Project.
 
-7. follow the step 5 to configure DeleteWebJobByName and run the project.
+7.follow the step 5 to configure DeleteWebJobByName and run the project.
 
    
