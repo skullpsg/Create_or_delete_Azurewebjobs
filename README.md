@@ -18,7 +18,7 @@ In this project I have created azure webjobs sample,and added two other console 
   
 3.Build  samplewebjob project in debug mode/release mode.
 
-4. Go to samplewebjob project(~bin\debug) if you builded your project in debug mode.
+4.Go to samplewebjob project(~bin\debug) if you builded your project in debug mode.
    
    step 1 : Except folders, copy remaining files and create a folder named  "Web_host" in your desktop.
 
