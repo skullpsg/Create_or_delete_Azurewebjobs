@@ -23,9 +23,13 @@ In this project I have created azure webjobs sample,and added two other console 
 4. Go to samplewebjob project(~bin\debug) if you builded your project in debug mode.
    
    step 1 : Except folders, copy remaining files and create a folder named  "Web_host" in your desktop.
+
    step 2 : paste all the files inside that folder.
+
    step 3 : Zip that folder as "Web_host.Zip" and move that zipped file into createWebjob project folder( ~\CreateWebjob\bin\Debug\Zip_File).
+   
    step 4 : Replace the Zip file in the destination.
+   
 
 5.Now in your solution go to CreateWebjob Project,then in Program.cs file
 
