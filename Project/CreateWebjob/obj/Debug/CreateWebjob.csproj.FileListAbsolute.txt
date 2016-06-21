@@ -1,0 +1,6 @@
+c:\users\vishn_000\documents\visual studio 2015\Projects\DeleteWebJobByName\CreateWebjob\bin\Debug\CreateWebjob.exe.config
+c:\users\vishn_000\documents\visual studio 2015\Projects\DeleteWebJobByName\CreateWebjob\bin\Debug\CreateWebjob.exe
+c:\users\vishn_000\documents\visual studio 2015\Projects\DeleteWebJobByName\CreateWebjob\bin\Debug\CreateWebjob.pdb
+c:\users\vishn_000\documents\visual studio 2015\Projects\DeleteWebJobByName\CreateWebjob\obj\Debug\CreateWebjob.csprojResolveAssemblyReference.cache
+c:\users\vishn_000\documents\visual studio 2015\Projects\DeleteWebJobByName\CreateWebjob\obj\Debug\CreateWebjob.exe
+c:\users\vishn_000\documents\visual studio 2015\Projects\DeleteWebJobByName\CreateWebjob\obj\Debug\CreateWebjob.pdb

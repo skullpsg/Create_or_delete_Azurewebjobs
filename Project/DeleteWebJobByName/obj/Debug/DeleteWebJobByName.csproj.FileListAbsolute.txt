@@ -1,0 +1,5 @@
+c:\users\vishn_000\documents\visual studio 2015\Projects\DeleteWebJobByName\DeleteWebJobByName\bin\Debug\DeleteWebJobByName.exe.config
+c:\users\vishn_000\documents\visual studio 2015\Projects\DeleteWebJobByName\DeleteWebJobByName\bin\Debug\DeleteWebJobByName.exe
+c:\users\vishn_000\documents\visual studio 2015\Projects\DeleteWebJobByName\DeleteWebJobByName\bin\Debug\DeleteWebJobByName.pdb
+c:\users\vishn_000\documents\visual studio 2015\Projects\DeleteWebJobByName\DeleteWebJobByName\obj\Debug\DeleteWebJobByName.exe
+c:\users\vishn_000\documents\visual studio 2015\Projects\DeleteWebJobByName\DeleteWebJobByName\obj\Debug\DeleteWebJobByName.pdb
