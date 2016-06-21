@@ -10,13 +10,11 @@ In this project I have created azure webjobs sample,and added two other console 
 
 2.change the connection string of "AzureWebJobsDashboard" and "AzureWebJobsStorage" in Web.config of samplewebjob.
  
-  connection string expects storage accountname and its key.To get that you have to create storage account in azure.
+   connection string expects storage accountname and its key.To get that you have to create storage account in azure.
   
-  Go here : https://portal.azure.com/
+   Go here : https://portal.azure.com/
   
-  Then In filter type storage account -->  Create an account --> After creating account click that storage account  --> settings  --> Access Key
-  
-  you can be able to see the storage account name and key.
+   Then In filter type storage account -->  Create an account --> After creating account click that storage account  --> settings  --> Access Key. you can be able to see the storage account name and key.
   
 3.Build  samplewebjob project in debug mode/release mode.
 
