@@ -14,7 +14,7 @@ In this project I have created azure webjobs sample,and added two other console 
   
   Go here : https://portal.azure.com/
   
-  Then In filter type storage account -->  Create a account --> After creating account click that account  --> settings  --> Access Key
+  Then In filter type storage account -->  Create an account --> After creating account click that storage account  --> settings  --> Access Key
   
   you can be able to see the storage account name and key.
   
